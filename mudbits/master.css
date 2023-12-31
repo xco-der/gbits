@@ -1,0 +1,25 @@
+
+
+
+/* FONTS*/
+@import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,300i,400,400i,600,700,700i|Poppins:300,400,500';
+@import '../fonts/font-awesome-4.6.3/css/font-awesome.min.css';
+@import '../fonts/elegant/style.css';
+@import '../fonts/flaticon/flaticon.css';
+
+/* PLUGIN CSS */
+@import 'bootstrap.css';                /* bootstrap */
+@import 'header.css';                /* header */
+@import 'yamm.css';                /* header menu */
+@import 'owl.carousel.css';                 /* owl slider */
+@import 'slick.css';                 /* slick slider */
+@import 'jquery.bxslider.css';                        /* bx slider */
+@import 'magnific-popup.css';            /* popup windows */
+@import 'animate.css';                        /* animations */
+@import url('pickmeup.css'); /* calendar plugin */
+
+/* MAIN CSS */
+@import 'color.css';
+@import 'theme.css';
+@import 'responsive.css';
+@import 'custom.css';
