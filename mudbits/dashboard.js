@@ -3,7 +3,7 @@ const isLoggedIn = localStorage.getItem("globalbits");
     const btc = localStorage.getItem("btc")
     const eth = localStorage.getItem("eth")
 
-    const loginEndpoint = 'http://127.0.0.1:8000';
+    const loginEndpoint = 'https://globalbits-server.onrender.com';
 
   if (isLoggedIn === "true" && username && btc) {
     document.getElementById("user2").innerText = username;
